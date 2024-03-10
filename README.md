@@ -1,7 +1,6 @@
 # Wiki
 
-Wikipedia clone using Django
-CS50 Project 1
+Wikipedia clone using Django - CS50 Project 1
 
-To Run Server:
+To Run :
 ```python manage.py runserver```
